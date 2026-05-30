@@ -121,7 +121,7 @@
 | [🎯 **PS4 Homebrew Store**](https://github.com/ps4homebrew/ps4_hb_store) | Магазин Homebrew софта для PS4 |
 | [🎯 **NetCat GUI**](https://github.com/stooged/PS4-NetCat-GUI) | Отправка payload через графический NetCat |
 | [🎯 **Handy**](https://github.com/stooged/PS4-Handy) | Утилита отправки ELF-файлов с ПК / смартфона |
-| [🎯 **Vue After Free**](https://github.com/stooged/Vue-After-Free) | Эксплойт через приложение PlayStation Vue |
+| [🎯 **Vue After Free**](https://github.com/Vuemony/vue-after-free) | Эксплойт через приложение PlayStation Vue |
 
 ---
 
