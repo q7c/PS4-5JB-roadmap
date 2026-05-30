@@ -208,10 +208,12 @@
 | [🎯 **Elf Arsenal**](https://github.com/LightningMods/Elf-Arsenal) | Веб-панель управления PS5 (бывший Sonic Loader) |
 | [🎯 **BD-UN-JB**](https://github.com/LightningMods/BD-UN-JB) | Blu-Ray джейлбрейк для высоких прошивок PS5 |
 | [🎯 **P2JB**](https://github.com/chronoss09/P2JB) | Эксплойт через PS2-игру для PS5 |
-| [🎯 **Y2JB**](https://github.com/chronoss09/Y2JB) | Эксплойт через приложение YouTube для PS5 |
+| [🎯 **Y2JB**](https://github.com/Gezine/Y2JB) | Эксплойт через приложение YouTube для PS5 |
+| [🎯 **Y2JB-P2JB**](https://github.com/owendswang/Y2JB-P2JB-bdj_unpatch) | Эксплойт через приложение YouTube с автозагрузкой для PS5 |
 | [🎯 **ps5-linux-loader**](https://github.com/ps5linux/ps5-linux-loader) | Загрузчик Linux на PS5 |
 | [🎯 **Itemzflow PS5**](https://github.com/LightningMods/Itemzflow) | Лаунчер игр и файловый менеджер для PS5 |
 | [🎯 **Handy**](https://github.com/stooged/PS5-Handy) | Отправка payload на PS5 с ПК / смартфона |
+
 
 ---
 
